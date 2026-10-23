@@ -1,10 +1,8 @@
-🚀 Imran Kedir — Full-Stack Software Developer
-<div align="center"><!-- Animated Header Wave Banner --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=260&section=header&text=Imran%20Kedir&fontSize=56&fontAlignY=32&animation=fadeIn&desc=Full-Stack%20Software%20Developer%20%7C%20Architect%20%26%20Problem%20Solver&descFontSize=22&descAlignY=58&descAlign=50" width="100%" alt="Imran Kedir Header" /><!-- Dynamic Animated Typewriter --><a href="https://imranka.vercel.app/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=10B981&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Architecting+13%2B+Production+Web+Systems;Payment+Gateways+(Telebirr+%26+CBE)+%E2%80%A2+Offline-First+Apps;Clean+Code+%E2%80%A2+Relational+Databases+%E2%80%A2+Modern+UX" alt="Typing Header" /> </a>
-<!-- One-Tap Contact & Social Badges --><p align="center"> <a href="https://imranka.vercel.app/"> <img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981&borderColor=10B981" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/imranka641/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://t.me/imranka641"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://wa.me/251913841757"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> <a href="mailto:imranka641@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
-<!-- Profile Views Counter --><p align="center"> <img src="https://komarev.com/ghpvc/?username=imranka641&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/badge/Status-Open_to_Work-10B981?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to Work" /> <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-0D1117?style=flat-square&logo=googlemaps&logoColor=10B981" alt="Location" /> </p></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=240&section=header&text=Imran%20Kedir&fontSize=52&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Architect%20%26%20Problem%20Solver&descFontSize=20&descAlignY=58" width="100%" alt="Imran Kedir Header" /><a href="https://imranka.vercel.app/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=10B981&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Architecting+13%2B+Production+Web+Systems;Payment+Gateways+(Telebirr+%26+CBE)+%E2%80%A2+Offline-First+Apps;Clean+Code+%E2%80%A2+Relational+Databases+%E2%80%A2+Modern+UX" alt="Typing Header" /> </a><p align="center"> <a href="https://imranka.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/imranka641/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://t.me/imranka641"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://wa.me/251913841757"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="mailto:imranka641@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=imranka641&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/badge/Status-Open_to_Work-10B981?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to Work" /> <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-0D1117?style=flat-square&logo=googlemaps&logoColor=10B981" alt="Location" /> </p></div>
 <div align="center">
 🧭 Navigation
-👨‍💻 About	🛠️ Stack	🚀 Projects	🏛️ Principles	📊 Analytics	📬 Contact
+👨‍💻 About · 🛠️ Stack · 🚀 Projects · 🏛️ Principles · 📊 Analytics · 📬 Contact
+
 </div>
 👨‍💻 About Me & Engineering Ethos
 <div align="center">
@@ -15,7 +13,7 @@ I am a Full-Stack Software Developer based in Addis Ababa, Ethiopia, holding a B
 
 My engineering journey revolves around building high-utility, resilient software that directly impacts businesses and end-users. Rather than building superficial prototypes, I specialize in:
 
-<table> <tr> <td width="50%">
+<table> <tr> <td width="50%" valign="top">
 🎯 What I Do
 Production-Grade Frontends — Responsive, accessible, and fast web apps in React & TypeScript with zero-friction UX
 
@@ -27,7 +25,7 @@ Fintech & Real Transactions — Integrating real-world payment networks (Telebir
 
 Privacy-First & Offline Systems — IndexedDB, client-side canvas generation, and Web APIs
 
-</td> <td width="50%">
+</td> <td width="50%" valign="top">
 💡 My Philosophy
 Privacy by Default — If it can run client-side, it should
 
@@ -47,8 +45,7 @@ Ship It — Done is better than perfect, but done right is best
 🔧 Backend, Databases & APIs
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mysql,php&theme=dark" alt="Backend Stack" /> </a>
 🚀 DevOps, Version Control & Tooling
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" alt="Tools & Environment" /> </a></div>
-<div align="center">
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" alt="Tools & Environment" /> </a></div><div align="center">
 Category	Technologies
 Languages	TypeScript, JavaScript, PHP, SQL, HTML5, CSS3
 Frameworks	React, Node.js, Express, Tailwind CSS, Vite
@@ -69,6 +66,7 @@ Click any project to explore its live deployment
 Most typing platforms require accounts, push user data to external servers, and rely on arbitrary text passages that don't target individual finger weaknesses.
 
 ⚙️ How the Engine Works
+
 Real-Time Keystroke Interceptor — Captures keystroke delta times, backspaces, and missed characters at millisecond precision
 
 Error Heatmap & Weakness Profiler — Tracks character transition matrix pairs (bigrams like th, pr, qu), plotting recurring errors onto an interactive SVG keyboard layout
@@ -85,6 +83,7 @@ Ergonomic Visualizer — Dual-hand finger anchor guide with home-row placement (
 Online resume builders store sensitive data on third-party servers, lock exports behind paywalls, or produce broken PDF page splits where paragraphs get sliced in half.
 
 ⚙️ How the Engine Works
+
 Dynamic A4 Pagination Engine — Live, responsive A4 document canvas (scale-to-fit desktop and mobile) mirroring true print dimensions
 
 Orphan & Page-Break Prevention — Pre-computes block heights using an off-screen measuring sandbox; automatically breaks or transfers items to the next A4 sheet with matching headers
@@ -101,6 +100,7 @@ Zero-Server Privacy — Zero accounts, zero analytics, zero backend. Data persis
 Traditional Ethiopian restaurants rely on manual phone calls, paper tickets, and unverified bank screenshots — leading to lost orders and payment fraud.
 
 ⚙️ How the Engine Works
+
 Customer Order Pipeline — Browsable categorized catalogs, customizable quantities, and a dynamic client-side cart with real-time price calculations
 
 Fintech Integration — Direct checkout routes for Telebirr and CBE Birr with transaction verification workflows
@@ -119,6 +119,7 @@ Relational MySQL Architecture — Normalized schema managing users, categories, 
 Small businesses struggle to answer repetitive questions (hours, services, prices, policies) 24/7 without hiring dedicated staff.
 
 ⚙️ How the Engine Works
+
 Knowledge Base Ingestion — Business owners inject structured FAQ documents, service catalogs, and domain rules into the system prompt and semantic matcher
 
 Hybrid Processing Flow — Connects to advanced LLM APIs for nuanced queries with a local keyword/intent fallback matcher for API downtime
@@ -131,6 +132,7 @@ Structured Lead Generation — Automatically prompts high-intent prospects to su
 Tax clearance issuance in public administration frequently encounters forged paper certificates, lengthy validation queues, and lack of cross-office verification.
 
 ⚙️ How the Engine Works
+
 Cryptographic QR Validation — Every certificate embeds a secure QR encoding an encrypted validation token and certificate hash
 
 Instant Verification Scanner — Inspectors scan with any smartphone camera to pull the authoritative, tamper-proof government record in seconds
@@ -145,6 +147,7 @@ PostgreSQL & Prisma Backend — Strict foreign keys, audit log timestamps, and c
 Islamic estate distribution (Farā'iḍ) is mathematically rigorous with intricate legal constraints, variable kinship fractions, debt precedence, and exclusionary conditions prone to human error.
 
 ⚙️ How the Engine Works
+
 Pre-Distribution Deductions — Deducts funeral expenses, recorded debts, and valid non-heir bequests (Wasiyyah, capped at ⅓)
 
 Heir Hierarchy & Kinship Graph — Evaluates spouses, primary heirs (sons, daughters, parents), and collateral relatives
@@ -165,6 +168,7 @@ Visual Ledger — Itemized, downloadable legal statement breaking down every hei
 Patients experience dental anxiety due to opaque pricing, unclear surgical procedures, and inconvenient phone-only booking systems.
 
 ⚙️ How the Engine Works
+
 Interactive Appointment Booking — Patients select procedures (Orthodontics, Implants, Smile Makeovers, Root Canals) and choose preferred clinical dates/times
 
 Educational Procedure Modules — Step-by-step guides and before-and-after galleries alleviating patient anxiety
@@ -177,6 +181,7 @@ Optimized Clinical Performance — 100% accessible, mobile-first responsive layo
 Developers, students, and analysts need screens to remain on during presentations or long compilations without installing invasive desktop utilities.
 
 ⚙️ How the Engine Works
+
 Native Screen Wake Lock API — Directly interacts with navigator.wakeLock to prevent display sleep natively, auto-reacquiring the lock on tab switches
 
 20-20-20 Ergonomic Timer — Prompts every 20 minutes to look at an object 20 feet away for 20 seconds, reducing digital eye strain
@@ -189,6 +194,7 @@ Cognitive Reflex Checks — Quick alertness check-ins to monitor developer fatig
 Traditional recitation books are bulky to carry and lack dynamic daily organization, font scalability for elderly readers, or automatic bookmarking.
 
 ⚙️ How the Engine Works
+
 Day-by-Day Reading Organizer — Automatically displays the assigned daily section based on the current day of the week
 
 Typography Scaler — Responsive Arabic font customization, dark/light contrast modes, and continuous scroll position memory
@@ -201,6 +207,7 @@ Custom Local Notifications — Schedules gentle daily reminders without tracking
 Property managers waste hours managing listings across scattered channels, losing track of lease expirations, maintenance tickets, and booking deposits.
 
 ⚙️ How the Engine Works
+
 Property Showcase & Filtering — Browse apartments with filters for neighborhood, price, bedrooms, and amenities
 
 Interactive Floor Plans & Tours — High-resolution galleries detailing square meters, lease terms, and utilities
@@ -214,6 +221,7 @@ Platform	Live URL	Highlights
 🍃 Jungle Restaurant Botanical Dining	junglerestaurant.vercel.app	Table reservations, dietary-safe menus
 🌸 Al White Garden Restaurant & Coffee	alwhitegardenrestaurantcoffee.vercel.app	Private event inquiries, botanical dining
 ⚙️ Architecture Highlights
+
 Immersive Botanical Aesthetics — Fluid visual storytelling with high-resolution imagery and Framer Motion transitions
 
 Direct Cabana & Table Reservation — Interactive date/time slot selectors, party size configuration, and private event inquiry forms
@@ -223,6 +231,7 @@ Dietary Safe Menus — Digital culinary menus with instant filtering for Vegan, 
 12. 📖 Itkan (إتقان) — Islamic Institutional Mastery
 <div align="center"> <img src="https://img.shields.io/badge/Category-EdTech-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Islamic_Sciences-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_TypeScript_|_RTL-3178C6?style=flat-square&logo=typescript&logoColor=white" /> </div>
 ⚙️ Architecture Highlights
+
 Syllabus & Curriculum Explorer — Structured academic catalog spanning Quranic recitation (Tajweed), Arabic grammar, and Islamic Jurisprudence (Fiqh)
 
 Islamic Geometric Typography — Balanced dual-language typography (Arabic & English) featuring subtle Islamic geometric design motifs
@@ -263,9 +272,9 @@ Software should generate revenue, automate business workflows, and process payme
 Interfaces must render seamlessly across 320px mobile screens up to 4K ultra-wide monitors, supporting dark/light contrast and RTL scripts.
 
 📊 GitHub Analytics & Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imranka641&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF" height="170" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranka641&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981" height="170" alt="Streak Stats" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranka641&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=9CA3AF" width="400" alt="Top Languages" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranka641&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" /> </div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imranka641&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF" height="170" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranka641&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981" height="170" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranka641&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=9CA3AF" width="400" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranka641&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" /></div>
 🏆 What I Bring to Your Team
 <div align="center">
 🎯 Skill	📈 Level	💼 Evidence
@@ -283,5 +292,25 @@ UI/UX Polish	⭐⭐⭐⭐⭐	320px → 4K, RTL support, dark mode
 Let's build something exceptional together!
 
 
-<a href="https://imranka.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portfolio-imranka.vercel.app-10B981?style=for-the-badge&logoColor=white" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/imranka641/"> <img src="https://img.shields.io/badge/💼_LinkedIn-imranka641-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn" /> </a> <br/><br/> <a href="https://t.me/imranka641"> <img src="https://img.shields.io/badge/✈️_Telegram-@imranka641-26A5E4?style=for-the-badge&logoColor=white" alt="Telegram" /> </a> <a href="https://wa.me/251913841757"> <img src="https://img.shields.io/badge/📱_WhatsApp-+251_913_841_757-25D366?style=for-the-badge&logoColor=white" alt="WhatsApp" /> </a> <br/><br/> <a href="mailto:imranka641@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-imranka641@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email" /> </a> <a href="https://github.com/imranka641"> <img src="https://img.shields.io/badge/🐙_GitHub-imranka641-181717?style=for-the-badge&logoColor=white" alt="GitHub" /> </a></div>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=120&section=footer" width="100%" alt="Footer Wave" /><p align="center"> <i>⚡ Crafted with precision • Building useful, resilient software one commit at a time ⚡</i> </p><p align="center"> <b>⭐ If you find my work valuable, consider starring my repositories! ⭐</b> </p></div>
+<a href="https://imranka.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-imranka.vercel.app-10B981?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/imranka641/"><img src="https://img.shields.io/badge/💼_LinkedIn-imranka641-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
+
+
+
+
+<a href="https://t.me/imranka641"><img src="https://img.shields.io/badge/✈️_Telegram-@imranka641-26A5E4?style=for-the-badge" alt="Telegram" /></a>
+<a href="https://wa.me/251913841757"><img src="https://img.shields.io/badge/📱_WhatsApp-+251_913_841_757-25D366?style=for-the-badge" alt="WhatsApp" /></a>
+
+
+
+
+<a href="mailto:imranka641@gmail.com"><img src="https://img.shields.io/badge/📧_Email-imranka641@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
+<a href="https://github.com/imranka641"><img src="https://img.shields.io/badge/🐙_GitHub-imranka641-181717?style=for-the-badge" alt="GitHub" /></a>
+
+</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=120&section=footer" width="100%" alt="Footer Wave" />
+⚡ Crafted with precision • Building useful, resilient software one commit at a time ⚡
+
+⭐ If you find my work valuable, consider starring my repositories! ⭐
+
+</div>
