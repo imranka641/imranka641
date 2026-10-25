@@ -1,316 +1,185 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=240&section=header&text=Imran%20Kedir&fontSize=52&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Architect%20%26%20Problem%20Solver&descFontSize=20&descAlignY=58" width="100%" alt="Imran Kedir Header" /><a href="https://imranka.vercel.app/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=10B981&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Architecting+13%2B+Production+Web+Systems;Payment+Gateways+(Telebirr+%26+CBE)+%E2%80%A2+Offline-First+Apps;Clean+Code+%E2%80%A2+Relational+Databases+%E2%80%A2+Modern+UX" alt="Typing Header" /> </a><p align="center"> <a href="https://imranka.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/imranka641/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://t.me/imranka641"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://wa.me/251913841757"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="mailto:imranka641@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=imranka641&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/badge/Status-Open_to_Work-10B981?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to Work" /> <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-0D1117?style=flat-square&logo=googlemaps&logoColor=10B981" alt="Location" /> </p></div>
 <div align="center">
-🧭 Navigation
-👨‍💻 About · 🛠️ Stack · 🚀 Projects · 🏛️ Principles · 📊 Analytics · 📬 Contact
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:10B981&height=220&section=header&text=Imran%20Kedir&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile%20Solutions&descSize=18&descAlignY=58" width="100%" alt="Imran Kedir profile header" />
 
+  <a href="https://imranka.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+PHP;Building+useful+business+and+education+systems;Offline-first+apps+%7C+Relational+databases+%7C+Responsive+UI" alt="Animated introduction" />
+  </a>
+
+  <p>
+    <a href="https://imranka.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/imranka641/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/imranka641"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:imranka641@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=imranka641&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Open_to_Work-Available-10B981?style=flat-square" alt="Open to work" />
+    <img src="https://img.shields.io/badge/Addis_Ababa-Ethiopia-0D1117?style=flat-square&logo=googlemaps&logoColor=10B981" alt="Based in Addis Ababa, Ethiopia" />
+  </p>
 </div>
-👨‍💻 About Me & Engineering Ethos
-<div align="center">
-"I don't build prototypes. I build production-grade systems that solve real problems for real people."
 
+👋 About Me
+I’m a full-stack developer based in Addis Ababa, Ethiopia, with a BCompSc in Computer Science from Jimma University (2021–2026). I build web applications and digital systems that help businesses, institutions, and individuals solve practical problems.
+
+My work spans responsive user interfaces, REST APIs, relational database design, role-based workflows, offline-first browser applications, and locally relevant payment workflows. I care about maintainable code, useful product experiences, accessibility, and reliable data handling.
+- 🌐 Portfolio: imranka.vercel.app
+- 💼 LinkedIn: linkedin.com/in/imranka641
+- 🧑‍💻 GitHub: github.com/imranka641
+- 📍 Addis Ababa, Ethiopia
+- 🤝 Open to full-time roles, contracts, and freelance projects
+🛠️ Tech Stack
+<div align="center">
+
+Frontend
+
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS and Vite" />
+
+Backend, Data & APIs
+
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,prisma" alt="Node.js, Express, PHP, PostgreSQL, MySQL and Prisma" />
+
+Tools & Deployment
+
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel" alt="Git, GitHub, VS Code, Postman, Linux and Vercel" />
 </div>
-I am a Full-Stack Software Developer based in Addis Ababa, Ethiopia, holding a B.Sc. in Information Science from Jimma University Institute of Technology (JiT).
 
-My engineering journey revolves around building high-utility, resilient software that directly impacts businesses and end-users. Rather than building superficial prototypes, I specialize in:
-
-<table> <tr> <td width="50%" valign="top">
-🎯 What I Do
-Production-Grade Frontends — Responsive, accessible, and fast web apps in React & TypeScript with zero-friction UX
-
-Resilient Backend Architectures — Scalable REST APIs using Node.js/Express and PHP with structured validation
-
-Data Modeling & Integrity — Relational databases with PostgreSQL, Prisma, and MySQL ensuring normalized schemas
-
-Fintech & Real Transactions — Integrating real-world payment networks (Telebirr & CBE Birr)
-
-Privacy-First & Offline Systems — IndexedDB, client-side canvas generation, and Web APIs
-
-</td> <td width="50%" valign="top">
-💡 My Philosophy
-Privacy by Default — If it can run client-side, it should
-
-Real Commercial Utility — Software must generate revenue and automate workflows
-
-Accessibility & Polish — From 320px mobile to 4K ultra-wide, supporting RTL scripts
-
-Clean Code — Readable, maintainable, and well-documented
-
-Ship It — Done is better than perfect, but done right is best
-
-</td> </tr> </table>
-🛠️ Technical Stack & Tooling
-<div align="center">
-⚡ Frontend & UI Architecture
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" /> </a>
-🔧 Backend, Databases & APIs
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mysql,php&theme=dark" alt="Backend Stack" /> </a>
-🚀 DevOps, Version Control & Tooling
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" alt="Tools & Environment" /> </a></div><div align="center">
-Category	Technologies
+Area	Technologies
 Languages	TypeScript, JavaScript, PHP, SQL, HTML5, CSS3
-Frameworks	React, Node.js, Express, Tailwind CSS, Vite
+Frontend	React, Tailwind CSS, Vite, responsive UI
+Backend	Node.js, Express, REST APIs, PHP
 Databases	PostgreSQL, MySQL, Prisma ORM, IndexedDB
-Web APIs	Screen Wake Lock, Web Audio, Canvas, Service Workers
-Payments	Telebirr, CBE Birr, Transaction Verification
-Tools	Git, GitHub, VS Code, Postman, Linux, Vercel
-</div>
-🚀 Deep Dive: Project Architectures & How They Work
-<div align="center">
-📦 13+ Production Systems Engineered
-Click any project to explore its live deployment
+Browser APIs	Canvas, Web Audio, Screen Wake Lock, Service Workers
+Product areas	Role-based access, dashboards, document generation, offline-first apps
+Payments	Telebirr and CBE Birr workflows, where supported by the project
+Workflow	Git, GitHub, VS Code, Postman, Vercel
 
-</div>
-1. ⌨️ TypeMaster — Adaptive Touch-Typing Trainer
-<div align="center"> <img src="https://img.shields.io/badge/Category-Productivity-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Offline--First-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_TypeScript_|_IndexedDB-61DAFB?style=flat-square&logo=react&logoColor=white" /> </div>
-💡 The Problem
-Most typing platforms require accounts, push user data to external servers, and rely on arbitrary text passages that don't target individual finger weaknesses.
 
-⚙️ How the Engine Works
+🚀 Featured Projects
+I’ve worked on 13+ projects and product concepts across productivity, education, civic technology, commerce, healthcare, and hospitality. The projects below highlight selected engineering problems and approaches. Visit my portfolio for live demos and additional work.
+1. ⌨️ TypeMaster — Typing Practice
+Stack: React · TypeScript · IndexedDB
 
-Real-Time Keystroke Interceptor — Captures keystroke delta times, backspaces, and missed characters at millisecond precision
+An offline-first typing trainer designed to help users identify and improve recurring typing mistakes.
+- Tracks typing speed, errors, and session progress.
+- Uses error patterns to guide targeted practice drills.
+- Stores progress locally in the browser, with JSON/CSV export.
+- Includes a keyboard layout and fullscreen practice mode.
+Demo: typemaster-jade.vercel.app
+2. 📄 MakeCV — Resume Builder
+Stack: React · JavaScript · jsPDF · Canvas
 
-Error Heatmap & Weakness Profiler — Tracks character transition matrix pairs (bigrams like th, pr, qu), plotting recurring errors onto an interactive SVG keyboard layout
+A browser-based resume builder focused on document layout, privacy, and multilingual output.
+- Builds resume layouts around A4 page dimensions.
+- Works toward more predictable multi-page PDF output.
+- Supports English, Amharic, and Arabic-oriented layouts.
+- Keeps resume data in browser storage rather than requiring an account.
+Demo: makecv-plum.vercel.app
+3. 🍽️ Food Ordering & Restaurant Management
+Stack: PHP · MySQL · Payment workflows
 
-Adaptive Drill Generator — Synthesizes customized micro-drills based on highest error-frequency bigrams to retrain muscle memory
+A restaurant ordering concept covering customer ordering and operational administration.
+- Categorized menus, cart, quantity controls, and price calculations.
+- Order-status workflow from receipt through preparation and delivery.
+- Admin tools for products, availability, orders, and reporting.
+- Payment workflow concepts for Telebirr and CBE Birr.
+4. 🧾 Ethiopian Tax Clearance System
+Stack: React · Node.js · PostgreSQL · Prisma · PDF/QR
 
-Offline Persistence — 100% offline using IndexedDB; all WPM progress and session history remain in the browser with JSON/CSV export
+A civic-tech system concept for managing tax-clearance workflows and certificate verification.
+- Role-based access for administrative users and taxpayers.
+- Certificate generation with QR-based verification.
+- Structured records and validation workflows.
+- Designed around clearer auditability and cross-office verification.
+Repository: web-based-tax-clearance
+5. 🤖 AI Business Chatbot
+Stack: React · Node.js · Express
 
-Ergonomic Visualizer — Dual-hand finger anchor guide with home-row placement (A S D F / J K L ;) and distraction-free fullscreen mode (Alt + F)
-
-2. 📄 MakeCV — Client-Side ATS Resume Builder
-<div align="center"> <img src="https://img.shields.io/badge/Category-Document_Engineering-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Privacy_First-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_jsPDF_|_Canvas-61DAFB?style=flat-square&logo=react&logoColor=white" /> </div>
-💡 The Problem
-Online resume builders store sensitive data on third-party servers, lock exports behind paywalls, or produce broken PDF page splits where paragraphs get sliced in half.
-
-⚙️ How the Engine Works
-
-Dynamic A4 Pagination Engine — Live, responsive A4 document canvas (scale-to-fit desktop and mobile) mirroring true print dimensions
-
-Orphan & Page-Break Prevention — Pre-computes block heights using an off-screen measuring sandbox; automatically breaks or transfers items to the next A4 sheet with matching headers
-
-Deterministic Multi-Page PDF Generation — Rasterizes sanitized DOM nodes through canvas contexts, compiling clean, search-indexable A4 PDFs
-
-Multilingual & RTL Support — Native bi-directional layout for English (LTR), Amharic Ethiopic script, and Arabic (RTL)
-
-Zero-Server Privacy — Zero accounts, zero analytics, zero backend. Data persists in browser storage with encrypted JSON backup
-
-3. 🍽️ Food Ordering & Restaurant Management Platform
-<div align="center"> <img src="https://img.shields.io/badge/Category-E--Commerce-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-FinTech-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-PHP_|_MySQL_|_Telebirr_|_CBE_Birr-777BB4?style=flat-square&logo=php&logoColor=white" /> </div>
-💡 The Problem
-Traditional Ethiopian restaurants rely on manual phone calls, paper tickets, and unverified bank screenshots — leading to lost orders and payment fraud.
-
-⚙️ How the Engine Works
-
-Customer Order Pipeline — Browsable categorized catalogs, customizable quantities, and a dynamic client-side cart with real-time price calculations
-
-Fintech Integration — Direct checkout routes for Telebirr and CBE Birr with transaction verification workflows
-
-Live Multi-Stage Order Lifecycle
-
-text
-📥 Received  →  👨‍🍳 Kitchen Preparing  →  🚚 Out for Delivery  →  ✅ Completed
-Administrative Dashboard — Real-time catalog updates (toggle availability, adjust prices), incoming order monitoring, dispatcher assignment, and revenue reports
-
-Relational MySQL Architecture — Normalized schema managing users, categories, products, orders, order_items, and payment_transactions with FK constraints and transactional integrity
-
-4. 🤖 AI Business Chatbot
-<div align="center"> <img src="https://img.shields.io/badge/Category-AI_Automation-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Customer_Support-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_Node.js_|_Express-339933?style=flat-square&logo=node.js&logoColor=white" /> </div>
-💡 The Problem
-Small businesses struggle to answer repetitive questions (hours, services, prices, policies) 24/7 without hiring dedicated staff.
-
-⚙️ How the Engine Works
-
-Knowledge Base Ingestion — Business owners inject structured FAQ documents, service catalogs, and domain rules into the system prompt and semantic matcher
-
-Hybrid Processing Flow — Connects to advanced LLM APIs for nuanced queries with a local keyword/intent fallback matcher for API downtime
-
-Structured Lead Generation — Automatically prompts high-intent prospects to submit phone, email, or Telegram handle directly into the intake queue
-
-5. 🧾 Tax Clearance Certificate System
-<div align="center"> <img src="https://img.shields.io/badge/Category-Civic_Tech-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Enterprise_SaaS-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-Node.js_|_PostgreSQL_|_Prisma_|_QR-336791?style=flat-square&logo=postgresql&logoColor=white" /> </div>
-💡 The Problem
-Tax clearance issuance in public administration frequently encounters forged paper certificates, lengthy validation queues, and lack of cross-office verification.
-
-⚙️ How the Engine Works
-
-Cryptographic QR Validation — Every certificate embeds a secure QR encoding an encrypted validation token and certificate hash
-
-Instant Verification Scanner — Inspectors scan with any smartphone camera to pull the authoritative, tamper-proof government record in seconds
-
-Role-Based Access Control — Distinct permissions for Taxpayers, Verification Clerks, and Senior Supervisors
-
-PostgreSQL & Prisma Backend — Strict foreign keys, audit log timestamps, and compliance flags tracking creation, approvals, and expirations
-
+A customer-support chatbot concept for small businesses.
+- Organizes business FAQs, services, and policy information.
+- Supports intent/keyword fallback behavior for common questions.
+- Provides a structured flow for collecting customer inquiries.
 6. 🕌 Islamic Inheritance Calculator (Farā'iḍ)
-<div align="center"> <img src="https://img.shields.io/badge/Category-Legal_Tech-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Shariah_Finance-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_TypeScript_|_Math_Engine-3178C6?style=flat-square&logo=typescript&logoColor=white" /> </div>
-💡 The Problem
-Islamic estate distribution (Farā'iḍ) is mathematically rigorous with intricate legal constraints, variable kinship fractions, debt precedence, and exclusionary conditions prone to human error.
+Stack: React · TypeScript
 
-⚙️ How the Engine Works
+A calculation-focused interface for exploring Islamic inheritance distributions.
+- Accounts for pre-distribution deductions and eligible heirs.
+- Represents prescribed shares and exclusion rules.
+- Presents an itemized breakdown of calculated allocations.
+For real-world use, calculations should be reviewed against qualified scholarly guidance and tested against authoritative cases.
+7. 🦷 Dental Clinic Website
+Stack: React · TypeScript · Tailwind CSS
 
-Pre-Distribution Deductions — Deducts funeral expenses, recorded debts, and valid non-heir bequests (Wasiyyah, capped at ⅓)
+A clinic website concept designed to make services and appointment inquiries easier to access.
+- Responsive service and procedure information.
+- Appointment inquiry flow and clear calls to action.
+- Mobile-first presentation for patients.
+8. 👁️ StayAwake — Focus & Screen Utility
+Stack: React · Tailwind CSS · Screen Wake Lock · Web Audio
 
-Heir Hierarchy & Kinship Graph — Evaluates spouses, primary heirs (sons, daughters, parents), and collateral relatives
-
-Quranic Fractions & Exclusion Engine (Ḥajb) — Calculates prescribed shares (½, ⅓, ⅔, ¼, ⅙, ⅛) with Total Exclusion (Ḥajb al-Ḥirmān) and Partial Reduction (Ḥajb al-Nuqṣān)
-
-Fractional Balancing ('Awl & Radd)
-
-'Awl (Deficit) — Pro-rata reduction when fractions exceed 1
-
-Radd (Surplus) — Proportional redistribution when fractions sum to less than 1 without universal residue heirs
-
-Visual Ledger — Itemized, downloadable legal statement breaking down every heir's exact fractional ratio and monetary allocation
-
-7. 🦷 Dr. Addis Speciality Dental Care Center
-<div align="center"> <img src="https://img.shields.io/badge/Category-Healthcare-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Clinical-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_TypeScript_|_Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> </div>
-💡 The Problem
-Patients experience dental anxiety due to opaque pricing, unclear surgical procedures, and inconvenient phone-only booking systems.
-
-⚙️ How the Engine Works
-
-Interactive Appointment Booking — Patients select procedures (Orthodontics, Implants, Smile Makeovers, Root Canals) and choose preferred clinical dates/times
-
-Educational Procedure Modules — Step-by-step guides and before-and-after galleries alleviating patient anxiety
-
-Optimized Clinical Performance — 100% accessible, mobile-first responsive layout with fast load speeds and quick emergency triage
-
-8. 👁️ StayAwake — Screen Wake Lock & Fatigue Utility
-<div align="center"> <img src="https://img.shields.io/badge/Category-Developer_Productivity-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Ergonomics-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_Wake_Lock_API_|_Web_Audio-61DAFB?style=flat-square&logo=react&logoColor=white" /> </div>
-💡 The Problem
-Developers, students, and analysts need screens to remain on during presentations or long compilations without installing invasive desktop utilities.
-
-⚙️ How the Engine Works
-
-Native Screen Wake Lock API — Directly interacts with navigator.wakeLock to prevent display sleep natively, auto-reacquiring the lock on tab switches
-
-20-20-20 Ergonomic Timer — Prompts every 20 minutes to look at an object 20 feet away for 20 seconds, reducing digital eye strain
-
-Cognitive Reflex Checks — Quick alertness check-ins to monitor developer fatigue during late-night debugging marathons
-
+A browser utility for focus sessions and screen-awake workflows.
+- Uses the Screen Wake Lock API where supported.
+- Includes a 20-20-20 eye-break timer.
+- Provides simple reminders and alertness check-ins.
 9. 📿 DelailulKheirat — Daily Zikr Companion
-<div align="center"> <img src="https://img.shields.io/badge/Category-Islamic_App-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-PWA-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-JavaScript_|_Service_Workers_|_Audio-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </div>
-💡 The Problem
-Traditional recitation books are bulky to carry and lack dynamic daily organization, font scalability for elderly readers, or automatic bookmarking.
+Stack: JavaScript · Progressive Web App concepts
 
-⚙️ How the Engine Works
+A reading companion focused on daily organization and comfortable reading.
+- Organizes daily reading sections.
+- Includes adjustable typography and display preferences.
+- Supports remembering reading position locally.
+10. 🏠 Real Estate & Property Platform
+Stack: React · Node.js · PostgreSQL
 
-Day-by-Day Reading Organizer — Automatically displays the assigned daily section based on the current day of the week
+A property listing and management concept.
+- Search and filter properties by relevant features.
+- Display image galleries, amenities, and lease details.
+- Route inquiries to property managers.
+11. 🌿 Hospitality & Restaurant Experiences
+A set of hospitality and dining website concepts focused on visual storytelling, discovery, and inquiry flows.
+- Jungle House — eco-lodge experience.
+- Jungle Restaurant — restaurant and menu experience.
+- Al White Garden Restaurant & Coffee — dining and event inquiries.
+12. 📖 Itkan (إتقان) — Islamic Learning Platform
+Stack: React · TypeScript · RTL interfaces
 
-Typography Scaler — Responsive Arabic font customization, dark/light contrast modes, and continuous scroll position memory
-
-Custom Local Notifications — Schedules gentle daily reminders without tracking user personal data
-
-10. 🏠 Real Estate & Property Management Platform
-<div align="center"> <img src="https://img.shields.io/badge/Category-Real_Estate-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Property_SaaS-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_Node.js_|_PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> </div>
-💡 The Problem
-Property managers waste hours managing listings across scattered channels, losing track of lease expirations, maintenance tickets, and booking deposits.
-
-⚙️ How the Engine Works
-
-Property Showcase & Filtering — Browse apartments with filters for neighborhood, price, bedrooms, and amenities
-
-Interactive Floor Plans & Tours — High-resolution galleries detailing square meters, lease terms, and utilities
-
-Inquiry & Lease Pipeline — Direct booking inquiry routing to leasing agents with automated confirmation receipts
-
-11. 🌿 Hospitality & Eco-Resort Platforms
-<div align="center"> <img src="https://img.shields.io/badge/Category-Hospitality-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Eco_Tourism-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_Framer_Motion_|_Tailwind-61DAFB?style=flat-square&logo=react&logoColor=white" /> </div>
-Platform	Live URL	Highlights
-🌴 Jungle House Luxury Eco-Lodge	jungle-house.vercel.app	Immersive botanical aesthetics, cabana reservations
-🍃 Jungle Restaurant Botanical Dining	junglerestaurant.vercel.app	Table reservations, dietary-safe menus
-🌸 Al White Garden Restaurant & Coffee	alwhitegardenrestaurantcoffee.vercel.app	Private event inquiries, botanical dining
-⚙️ Architecture Highlights
-
-Immersive Botanical Aesthetics — Fluid visual storytelling with high-resolution imagery and Framer Motion transitions
-
-Direct Cabana & Table Reservation — Interactive date/time slot selectors, party size configuration, and private event inquiry forms
-
-Dietary Safe Menus — Digital culinary menus with instant filtering for Vegan, Halal, Gluten-Free, and Dairy-Free
-
-12. 📖 Itkan (إتقان) — Islamic Institutional Mastery
-<div align="center"> <img src="https://img.shields.io/badge/Category-EdTech-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Islamic_Sciences-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_TypeScript_|_RTL-3178C6?style=flat-square&logo=typescript&logoColor=white" /> </div>
-⚙️ Architecture Highlights
-
-Syllabus & Curriculum Explorer — Structured academic catalog spanning Quranic recitation (Tajweed), Arabic grammar, and Islamic Jurisprudence (Fiqh)
-
-Islamic Geometric Typography — Balanced dual-language typography (Arabic & English) featuring subtle Islamic geometric design motifs
-
-13. ☕ Specialty Coffee Brand Ecosystem
-<div align="center"> <img src="https://img.shields.io/badge/Category-Coffee_&_Beverage-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Brand_Experience-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-React_|_Vite_|_Tailwind-61DAFB?style=flat-square&logo=react&logoColor=white" /> </div>
-Brand	Live URL	Experience
-☕ El Pacho Coffee Roasters	el-pacho-coffee-roasters.vercel.app	Farm-to-cup traceability, altitude metrics, interactive brew guides (V60, Chemex, Aeropress)
-🌼 Yellow Flower Coffee	yellowflowercoffee.vercel.app	Sunlit urban café experience, floral Ethiopian Gesha varietals, online pickup cart
-🏡 Kosy Kawa Coffee Lounge	kosy-kawa.vercel.app	Community workspace amenities (Wi-Fi speeds, power outlets), fresh bakery timetables
-🏛️ Core Architectural Principles
+An educational platform concept for organizing Islamic studies content.
+- Structured curriculum and subject exploration.
+- Arabic-friendly typography and right-to-left layout.
+- Designed for clear navigation across learning topics.
+13. ☕ Specialty Coffee Brand Websites
+A collection of coffee brand concepts that explore product storytelling, local identity, and customer experiences.
+- El Pacho Coffee Roasters — coffee origin and brewing content.
+- Yellow Flower Coffee — café presentation and pickup-cart concept.
+- Kosy Kawa Coffee Lounge — café and community workspace experience.
+🧠 Engineering Principles
+- Solve a real problem: prioritize clear user needs and useful workflows.
+- Protect user data: avoid unnecessary collection and use local storage when appropriate.
+- Design for data integrity: use validation, relational constraints, and clear state transitions.
+- Build for real devices: make interfaces responsive, accessible, and usable on smaller screens.
+- Keep code maintainable: prefer readable components, explicit business rules, and documented decisions.
+- Be honest about delivery status: distinguish demos and concepts from production deployments and verified integrations.
+📊 GitHub Activity
 <div align="center">
-text
-┌────────────────────────────────────────────────────────┐
-│              IMRAN'S ENGINEERING PILLARS               │
-└────────────────────────────────────────────────────────┘
-         │                  │                  │
-         ▼                  ▼                  ▼
-  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-  │  PRIVACY-   │    │    REAL     │    │   ROBUST    │
-  │   FIRST     │    │  PAYMENTS   │    │    DATA     │
-  ├─────────────┤    ├─────────────┤    ├─────────────┤
-  │ Client-side │    │  Telebirr & │    │ Normalized  │
-  │  execution  │    │  CBE Birr   │    │ PostgreSQL  │
-  │ Zero cloud  │    │   Direct    │    │ Prisma &    │
-  │  tracking   │    │ transactions│    │ MySQL       │
-  │ IndexedDB & │    │   Audited   │    │ Constraint  │
-  │  LocalAPI   │    │  pipelines  │    │ Integrity   │
-  └─────────────┘    └─────────────┘    └─────────────┘
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imranka641&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=imranka641&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981" alt="GitHub contribution streak" />
+  <br />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranka641&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=9CA3AF" alt="Most-used languages" />
+  <br />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imranka641&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
-1. 🔒 User Privacy by Default
-If an application can run entirely in the browser without sending data to an external server (like MakeCV or TypeMaster), it is architected client-side using Web APIs and IndexedDB.
 
-2. 💰 Built for Real Commercial Utility
-Software should generate revenue, automate business workflows, and process payments securely in local Ethiopian contexts.
-
-3. ♿ Accessibility & Responsive Polish
-Interfaces must render seamlessly across 320px mobile screens up to 4K ultra-wide monitors, supporting dark/light contrast and RTL scripts.
-
-📊 GitHub Analytics & Activity
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imranka641&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF" height="170" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranka641&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=10B981" height="170" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranka641&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=9CA3AF" width="400" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranka641&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" /></div>
-🏆 What I Bring to Your Team
+📬 Let’s Work Together
+I’m interested in opportunities where I can contribute to web application development, frontend engineering, backend APIs, database-driven systems, and practical digital products.
 <div align="center">
-🎯 Skill	📈 Level	💼 Evidence
-Full-Stack Development	⭐⭐⭐⭐⭐	13+ production systems deployed
-Fintech Integration	⭐⭐⭐⭐⭐	Telebirr & CBE Birr payment pipelines
-Database Architecture	⭐⭐⭐⭐⭐	Normalized PostgreSQL/MySQL with Prisma
-Privacy-First Engineering	⭐⭐⭐⭐⭐	Offline-first apps with IndexedDB
-TypeScript & React	⭐⭐⭐⭐⭐	Production-grade frontends
-API Design	⭐⭐⭐⭐	REST APIs with Node.js/Express
-UI/UX Polish	⭐⭐⭐⭐⭐	320px → 4K, RTL support, dark mode
+  <a href="https://imranka.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+  <a href="https://www.linkedin.com/in/imranka641/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:imranka641@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 </div>
-📬 Get in Touch
+
 <div align="center">
-🚀 Actively Available for Full-Time Roles, Contract Engagements & Freelance Projects
-Let's build something exceptional together!
-
-
-<a href="https://imranka.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-imranka.vercel.app-10B981?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/imranka641/"><img src="https://img.shields.io/badge/💼_LinkedIn-imranka641-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
-
-
-
-
-<a href="https://t.me/imranka641"><img src="https://img.shields.io/badge/✈️_Telegram-@imranka641-26A5E4?style=for-the-badge" alt="Telegram" /></a>
-<a href="https://wa.me/251913841757"><img src="https://img.shields.io/badge/📱_WhatsApp-+251_913_841_757-25D366?style=for-the-badge" alt="WhatsApp" /></a>
-
-
-
-
-<a href="mailto:imranka641@gmail.com"><img src="https://img.shields.io/badge/📧_Email-imranka641@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
-<a href="https://github.com/imranka641"><img src="https://img.shields.io/badge/🐙_GitHub-imranka641-181717?style=for-the-badge" alt="GitHub" /></a>
-
-</div>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=120&section=footer" width="100%" alt="Footer Wave" />
-⚡ Crafted with precision • Building useful, resilient software one commit at a time ⚡
-
-⭐ If you find my work valuable, consider starring my repositories! ⭐
-
+  <sub>Built with care. Focused on useful software, thoughtful engineering, and continuous improvement.</sub>
 </div>
