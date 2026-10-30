@@ -27,7 +27,7 @@
 
 > **Full-stack developer based in Addis Ababa, Ethiopia** — building web applications and digital systems that help businesses, institutions, and individuals solve practical problems.
 
-I hold a **BCompSc in Computer Science** from **Jimma University (2021–2026)**. My work spans responsive user interfaces, REST APIs, relational database design, role-based workflows, offline-first browser applications, and locally relevant payment workflows. I care about maintainable code, useful product experiences, accessibility, and reliable data handling.
+I hold a **BCompSc in Information Science** from **Jimma University (2023–2026)**. My work spans responsive user interfaces, REST APIs, relational database design, role-based workflows, offline-first browser applications, and locally relevant payment workflows. I care about maintainable code, useful product experiences, accessibility, and reliable data handling.
 
 <table>
   <tr>
